@@ -5,6 +5,8 @@
 <p align="center">
 I'm a developer with a keen interest in full stack developer and want to improve my skills in various programming languages. <br>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatkardak&label=Profile%20views&color=0e75b6&style=flat" alt="akshatkardak" /> </p>
+
 
 <hr>
 
