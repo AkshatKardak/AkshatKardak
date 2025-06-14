@@ -25,6 +25,10 @@ I'm a developer with a keen interest in full stack developer and want to improve
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatKardak)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 📫 How to reach me:
 
 - LinkedIn: https://www.linkedin.com/in/akshat-kardak-901304329/  
