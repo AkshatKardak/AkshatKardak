@@ -25,7 +25,12 @@ I'm a developer with a keen interest in full stack developer and want to improve
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatKardak)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshatKardak&show_icons=true&count_private=true&theme=tokyonight)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatKardak&layout=compact&theme=tokyonight)
 
 ---
 
