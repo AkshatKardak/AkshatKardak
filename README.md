@@ -21,7 +21,9 @@ I'm a developer with a keen interest in full stack developer and want to improve
 
 ### 🔭 Current Projects:
 
-- 🌐 **Face Recognition Based Attendance System:** Building a face recognition project using python libraries like NumPy,Pandas and using Tkinter for GUI
+- 🌐 **Face Recognition Based Attendance System:** Build a face recognition project using python libraries like NumPy,Pandas and using Tkinter for GUI
+- **Amazon Clone Website:** Build using **HTML**,**CSS**,**JS**
+- **Game Website:** Build using frontend 
 
 ---
 
@@ -36,7 +38,7 @@ I'm a developer with a keen interest in full stack developer and want to improve
 
 ### 📫 How to reach me:
 
-- LinkedIn: https://www.linkedin.com/in/akshat-kardak-901304329/  
+- LinkedIn: https://www.linkedin.com/in/akshatkardak/  
 - GitHub: https://github.com/AkshatKardak   
 
 ---
