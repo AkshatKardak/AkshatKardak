@@ -12,28 +12,29 @@ I'm a developer with a keen interest in full stack developer and want to improve
 
 ### 🛠 Technologies & Tools:
 
-- **Languages:** Python, C, Java   
-- **Libraries:** NumPy, Pandas,  
-- **Databases:** MySQL 
-- **Currently Learning:** Full Stack 
+- ### FRONTEND 
+![Frontend](https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap)
+
+- ### LANGUAGES:
+![Languages](https://skillicons.dev/icons?i=c,python,java)
+
+-  ### 🗄️ DATABASE 
+![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)
+
+- ### ⚙️ TOOLS
+![DevOps](https://skillicons.dev/icons?i=git,github,vercel,figma,vscode)
+
+---
 
 ---
 
 ### 🔭 Current Projects:
 
-- 🌐 **Face Recognition Based Attendance System:** Build a face recognition project using python libraries like NumPy,Pandas and using Tkinter for GUI
+- 🌐 **Face Recognition Based Attendance System:** Build a face recognition project using python libraries like **NumPy**,**Pandas** and using **Tkinter** for GUI
 - **Amazon Clone Website:** Build using **HTML**,**CSS**,**JS**
-- **Game Website:** Build using frontend 
+- **Game Website:** Build using frontend **HTML**,**CSS**,**JS** with some cool animation
 
 ---
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshatKardak&show_icons=true&count_private=true&theme=tokyonight)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatKardak&layout=compact)
-
 
 ---
 
