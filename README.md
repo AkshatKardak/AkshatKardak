@@ -18,10 +18,10 @@ I'm a developer with a keen interest in full stack developer and want to improve
 - ### LANGUAGES:
 ![Languages](https://skillicons.dev/icons?i=c,python,java)
 
--  ### 🗄️ DATABASE 
+-  ###  DATABASE 
 ![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)
 
-- ### ⚙️ TOOLS
+- ### TOOLS
 ![DevOps](https://skillicons.dev/icons?i=git,github,vercel,figma,vscode)
 
 ---
@@ -30,7 +30,7 @@ I'm a developer with a keen interest in full stack developer and want to improve
 
 ### 🔭 Current Projects:
 
-- 🌐 **Face Recognition Based Attendance System:** Build a face recognition project using python libraries like **NumPy**,**Pandas** and using **Tkinter** for GUI
+- **Face Recognition Based Attendance System:** Build a face recognition project using python libraries like **NumPy**,**Pandas** and using **Tkinter** for GUI
 - **Amazon Clone Website:** Build using **HTML**,**CSS**,**JS**
 - **Game Website:** Build using frontend **HTML**,**CSS**,**JS** with some cool animation
 
