@@ -31,7 +31,7 @@ I'm a developer with a keen interest in full stack developer and want to improve
 ### 🔭 Current Projects:
 
 - **Face Recognition Based Attendance System:** Build a face recognition project using python libraries like **NumPy**,**Pandas** and using **Tkinter** for GUI
-- **Amazon Clone Website:** Build using **HTML**,**CSS**,**JS**
+- **RoastHub- AI TWEET GENERATOR :** Build using **REACT**,**NODE JS**,**EXPRESS JS**,,**MONGODB**
 - **Game Website:** Build using frontend **HTML**,**CSS**,**JS** with some cool animation
 
 ---
