@@ -13,10 +13,10 @@ I'm a developer with a keen interest in full stack developer and want to improve
 ### 🛠 Technologies & Tools:
 
 - ### FRONTEND 
-![Frontend](https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap)
+![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap)
 
 - ### LANGUAGES:
-![Languages](https://skillicons.dev/icons?i=c,python,java)
+![Languages](https://skillicons.dev/icons?i=c,python,java,js)
 
 -  ###  DATABASE 
 ![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)
