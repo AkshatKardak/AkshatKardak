@@ -25,7 +25,6 @@ I'm a developer with a keen interest in full stack developer and want to improve
 ![DevOps](https://skillicons.dev/icons?i=git,github,vercel,figma,vscode)
 
 ---
-
 ---
 
 ### 🔭 Current Projects:
@@ -35,6 +34,7 @@ I'm a developer with a keen interest in full stack developer and want to improve
 - **Game Website:** Build using frontend **HTML**,**CSS**,**JS** with some cool animation
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatKardak&layout=compact&theme=radical)
 
 ---
 
