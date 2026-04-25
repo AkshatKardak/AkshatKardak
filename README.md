@@ -80,11 +80,15 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/AkshatKardak/Akshat-Portfolio/main/public/images/RentRide.png" width="100%" alt="RentRide Preview" style="border-radius:8px" />
-      <h3>🚗 RentRide – AI Car Rental</h3>
-      <p>Full-stack MERN car rental platform with <strong>Gemini AI chat assistant</strong>, admin dashboard, damage report system & Razorpay payments.</p>
-      <p>
+    <td width="50%" valign="top" align="center">
+      <a href="https://rentridefrontend.vercel.app/">
+        <img src="./RentRide.png" width="340" height="200" alt="RentRide Preview" />
+      </a>
+      <br/><br/>
+      <strong>RentRide – AI Car Rental</strong>
+      <br/><br/>
+      <p align="left">Full-stack MERN car rental platform with <strong>Gemini AI chat assistant</strong>, admin dashboard, damage report system & Razorpay payments.</p>
+      <p align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
@@ -93,11 +97,15 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
       <a href="https://github.com/AkshatKardak/RentRide"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
       <a href="https://rentridefrontend.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e,ef4444&height=120&text=RoastHub&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="RoastHub Preview" />
-      <h3>🤖 RoastHub – AI Tweet Generator</h3>
-      <p>AI-powered savage tweet generator with authentic Indian flavor — Bollywood refs, cricket banter & desi slang. Powered by <strong>Groq API</strong>.</p>
-      <p>
+    <td width="50%" valign="top" align="center">
+      <a href="https://roasthubfront.vercel.app/">
+        <img src="./RoastHub.png" width="340" height="200" alt="RoastHub Preview" />
+      </a>
+      <br/><br/>
+      <strong>RoastHub – AI Tweet Generator</strong>
+      <br/><br/>
+      <p align="left">AI-powered savage tweet generator with authentic Indian flavor — Bollywood refs, cricket banter & desi slang. Powered by <strong>Groq API</strong>.</p>
+      <p align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
@@ -108,11 +116,15 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/AkshatKardak/Akshat-Portfolio/main/public/images/UnitedImpact.png" width="100%" alt="UnitedImpact Preview" style="border-radius:8px" />
-      <h3>🌍 UnitedImpact – NGO & Donor Platform</h3>
-      <p>MERN NGO platform with real-time geo-mapping, live campaign tracking & end-to-end Razorpay donation flow.</p>
-      <p>
+    <td width="50%" valign="top" align="center">
+      <a href="https://unitedimpact-app.netlify.app/">
+        <img src="./United.png" width="340" height="200" alt="UnitedImpact Preview" />
+      </a>
+      <br/><br/>
+      <strong>UnitedImpact – NGO & Donor Platform</strong>
+      <br/><br/>
+      <p align="left">MERN NGO platform with real-time geo-mapping, live campaign tracking & end-to-end Razorpay donation flow.</p>
+      <p align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
@@ -121,10 +133,12 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
       <a href="https://github.com/AkshatKardak/UnitedImpact"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
       <a href="https://unitedimpact-app.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>📷 Face Recognition Attendance System</h3>
-      <p>Real-time face recognition attendance system using OpenCV with CSV-based storage, Tkinter GUI and automated date-wise reports.</p>
-      <p>
+    <td width="50%" valign="top" align="center">
+      <br/>
+      <strong>📷 Face Recognition Attendance System</strong>
+      <br/><br/>
+      <p align="left">Real-time face recognition attendance system using OpenCV with CSV-based storage, Tkinter GUI and automated date-wise reports.</p>
+      <p align="left">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -134,11 +148,15 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f1a,6366f1&height=120&text=Galactic+Squad&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Galactic Squad Preview" />
-      <h3>🎮 Galactic Squad – eSports Website</h3>
-      <p>Professional eSports site with responsive layout, team profiles, multimedia news section & working contact form via EmailJS.</p>
-      <p>
+    <td width="50%" valign="top" align="center">
+      <a href="https://game-website-final.vercel.app">
+        <img src="./Game-Website.png" width="340" height="200" alt="Galactic Squad Preview" />
+      </a>
+      <br/><br/>
+      <strong>Galactic Squad – eSports Website</strong>
+      <br/><br/>
+      <p align="left">Professional eSports site with responsive layout, team profiles, multimedia news section & working contact form via EmailJS.</p>
+      <p align="left">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -147,11 +165,15 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
       <a href="https://github.com/AkshatKardak/Game-Website"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
       <a href="https://game-website-final.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/AkshatKardak/Akshat-Portfolio/main/public/images/AK27.png" width="100%" alt="AK27 Portfolio Preview" style="border-radius:8px" />
-      <h3>💼 AK27 – Personal Portfolio</h3>
-      <p>Cinematic portfolio with Three.js background, GSAP animations, Lenis smooth scrolling & Midnight Gold design system.</p>
-      <p>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/AkshatKardak/Akshat-Portfolio">
+        <img src="./AK27.png" width="340" height="200" alt="AK27 Portfolio Preview" />
+      </a>
+      <br/><br/>
+      <strong>Personal Portfolio</strong>
+      <br/><br/>
+      <p align="left">Cinematic portfolio with Three.js background, GSAP animations, Lenis smooth scrolling & Midnight Gold design system.</p>
+      <p align="left">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
         <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black" />
@@ -162,7 +184,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
   </tr>
 </table>
 
----
+--
 
 ## 🛠️ Tech Stack
 
