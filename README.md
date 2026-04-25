@@ -81,6 +81,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/AkshatKardak/Akshat-Portfolio/main/public/images/RentRide.png" width="100%" alt="RentRide Preview" style="border-radius:8px" />
       <h3>🚗 RentRide – AI Car Rental</h3>
       <p>Full-stack MERN car rental platform with <strong>Gemini AI chat assistant</strong>, admin dashboard, damage report system & Razorpay payments.</p>
       <p>
@@ -93,6 +94,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
       <a href="https://rentridefrontend.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e,ef4444&height=120&text=RoastHub&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="RoastHub Preview" />
       <h3>🤖 RoastHub – AI Tweet Generator</h3>
       <p>AI-powered savage tweet generator with authentic Indian flavor — Bollywood refs, cricket banter & desi slang. Powered by <strong>Groq API</strong>.</p>
       <p>
@@ -107,6 +109,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/AkshatKardak/Akshat-Portfolio/main/public/images/UnitedImpact.png" width="100%" alt="UnitedImpact Preview" style="border-radius:8px" />
       <h3>🌍 UnitedImpact – NGO & Donor Platform</h3>
       <p>MERN NGO platform with real-time geo-mapping, live campaign tracking & end-to-end Razorpay donation flow.</p>
       <p>
@@ -132,6 +135,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f1a,6366f1&height=120&text=Galactic+Squad&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Galactic Squad Preview" />
       <h3>🎮 Galactic Squad – eSports Website</h3>
       <p>Professional eSports site with responsive layout, team profiles, multimedia news section & working contact form via EmailJS.</p>
       <p>
@@ -144,7 +148,8 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
       <a href="https://game-website-final.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧑‍💼 Personal Portfolio</h3>
+      <img src="https://raw.githubusercontent.com/AkshatKardak/Akshat-Portfolio/main/public/images/AK27.png" width="100%" alt="AK27 Portfolio Preview" style="border-radius:8px" />
+      <h3>💼 AK27 – Personal Portfolio</h3>
       <p>Cinematic portfolio with Three.js background, GSAP animations, Lenis smooth scrolling & Midnight Gold design system.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
