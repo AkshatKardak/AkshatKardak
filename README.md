@@ -179,11 +179,9 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
 
 | 🏆 Certificate | 🏢 Issuer | 📅 Year |
 |---|---|---|
-| Full Stack Developer | Coursera / Meta | 2024 |
-| Software Engineering Job Simulation | JP Morgan (Forage) | 2024 |
-| Data Analytics Job Simulation | Deloitte Australia (Forage) | 2024 |
-| ReactJS for Beginners | Simplilearn | 2024 |
-| Front-End Software Engineering Simulation | Skyscanner (Forage) | 2024 |
+| Software Engineering Job Simulation | JP Morgan (Forage) | 2025 |
+| ReactJS for Beginners | Simplilearn | 2025 |
+| Front-End Software Engineering Simulation | Skyscanner (Forage) | 2025 |
 
 ---
 
