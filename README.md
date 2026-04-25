@@ -184,7 +184,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
   </tr>
 </table>
 
---
+---
 
 ## 🛠️ Tech Stack
 
