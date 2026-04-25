@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="/githubanner.png" width="100%" alt="Akshat Kardak Banner" />
+<img src="./githubanner.png" width="100%" alt="Akshat Kardak Banner" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=580&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Express;MongoDB+%7C+Firebase+%7C+MySQL;Building+Real-World+Products+%F0%9F%94%A5;Open+to+Internships+%26+Collabs!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=580&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Express;MongoDB+%7C+MySQL+%7C+PostgreSQL;Building+Real-World+Products+%F0%9F%94%A5;Open+to+Internships+%26+Collabs!" alt="Typing SVG" />
 
 <br/>
 
@@ -23,29 +23,56 @@
 
 ## 👨‍💻 About Me
 
-> *"Ship it. Learn from it. Improve it."*
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```javascript
-🌍  Based in          Mumbai, Maharashtra, India
-🎓  Studying          B.E. Computer Science @ Datta Meghe College of Engineering
-🔭  Currently         Building RentRide, CampusDrop & UnitedImpact
-🌱  Learning          Advanced Next.js, Cloud Deployment, Real-time Systems
-💼  Looking for       Internship Opportunities
-⚡  Superpower        Turning caffeine ☕ into code at midnight
-🎮  Off the clock     Gaming, Cricket & exploring new tech
-```
+I'm a Computer Science student from Mumbai who got hooked on building things the moment I wrote my first `console.log`. Since then, I haven't really stopped.
 
-<details>
-<summary><b>🧠 A bit more about me...</b></summary>
-<br>
+I've shipped full-stack products — a real NGO donation platform, an AI tweet generator, a car rental system with a Gemini-powered chat assistant — and each one taught me more than any tutorial ever could. I work across the whole stack: React and Next.js on the front, Node.js and Express on the back, MongoDB for data, and whatever tool the problem demands.
 
-I'm a driven Computer Science student who loves shipping full-stack products that solve real problems — from NGO platforms to AI tweet generators. I thrive on combining clean UI with solid backend architecture, and I believe the best way to learn is to <em>build</em>.
+Right now I'm interning, building, learning Socket.io and Three.js on the side, and genuinely enjoying every bit of it. I believe the best developers aren't the ones who know everything — they're the ones who figure things out fast and ship anyway.
 
-I've worked across the full stack — React, Next.js on the frontend; Node.js, Express on the backend; MongoDB, Firebase, MySQL for data. I'm comfortable with deployment pipelines on Vercel, Netlify, and Railway.
+When I'm not at my desk, I'm on the cricket field or two hours deep into a game I told myself I'd play for twenty minutes. 🏏🎮
 
-When I'm not coding, I'm on the cricket field or deep in a game session. 🏏🎮
+> *"Ship it. Learn from it. Build something better."*
 
-</details>
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 Web Development Intern</h3>
+      <strong>Employment Express Verband LLP</strong><br/>
+      <em>Aug 2025 – Oct 2025 · 3 months</em>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <br/><br/>
+      <ul>
+        <li>Built & maintained web interfaces using React.js with focus on clean UI and solid functionality</li>
+        <li>Shipped features end-to-end in real client-facing projects within a professional team</li>
+        <li>First industry exposure — delivered in a structured professional dev environment</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📣 Publicity Team Member</h3>
+      <strong>Computer Society of India — DMCE Chapter</strong><br/>
+      <em>Aug 2024 – Apr 2025 · 9 months</em>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Community-6366f1?style=flat" />
+      <img src="https://img.shields.io/badge/Events-f59e0b?style=flat" />
+      <img src="https://img.shields.io/badge/Publicity-10b981?style=flat" />
+      <br/><br/>
+      <ul>
+        <li>Handled event promotion, social media coordination & outreach for college tech events</li>
+        <li>Organized college-level tech activities and community initiatives</li>
+        <li>Helped grow the college tech community through consistent publicity work</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -55,24 +82,24 @@ When I'm not coding, I'm on the cricket field or deep in a game session. 🏏�
   <tr>
     <td width="50%" valign="top">
       <h3>🚗 RentRide – AI Car Rental</h3>
-      <p>Full-stack MERN car rental platform with AI features and Razorpay payment integration.</p>
+      <p>Full-stack MERN car rental platform with <strong>Gemini AI chat assistant</strong>, admin dashboard, damage report system & Razorpay payments.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=3395FF" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white" />
       </p>
       <a href="https://github.com/AkshatKardak/RentRide"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
       <a href="https://rentridefrontend.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 RoastHub – AI Tweet Generator</h3>
-      <p>Generates 10 savage roast tweets with Bollywood, Cricket & Indian slang references. Includes Viral Potential & Savage Level ratings.</p>
+      <p>AI-powered savage tweet generator with authentic Indian flavor — Bollywood refs, cricket banter & desi slang. Powered by <strong>Groq API</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq_API-f59e0b?style=flat" />
       </p>
       <a href="https://github.com/AkshatKardak/RoastHub"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
       <a href="https://roasthubfront.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -81,39 +108,15 @@ When I'm not coding, I'm on the cricket field or deep in a game session. 🏏�
   <tr>
     <td width="50%" valign="top">
       <h3>🌍 UnitedImpact – NGO & Donor Platform</h3>
-      <p>MERN stack NGO platform connecting donors, volunteers & NGOs with Razorpay payments, Firebase auth & real-time messaging.</p>
+      <p>MERN NGO platform with real-time geo-mapping, live campaign tracking & end-to-end Razorpay donation flow.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=3395FF" />
       </p>
       <a href="https://github.com/AkshatKardak/UnitedImpact"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
       <a href="https://unitedimpact-app.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Galactic Squad – eSports Website</h3>
-      <p>Professional eSports website with responsive layout, team profiles, news section and working contact form via EmailJS.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/EmailJS-2F2F2F?style=flat" />
-      </p>
-      <a href="https://github.com/AkshatKardak/Game-Website"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
-      <a href="https://game-website-final.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧑‍💼 Personal Portfolio</h3>
-      <p>My personal developer portfolio built with Next.js, Tailwind CSS, and Framer Motion animations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" />
-      </p>
-      <a href="https://github.com/AkshatKardak/Akshat-Portfolio"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📷 Face Recognition Attendance System</h3>
@@ -127,6 +130,31 @@ When I'm not coding, I'm on the cricket field or deep in a game session. 🏏�
       <a href="https://github.com/AkshatKardak/Face-Recognition-Based-Attendance-System"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Galactic Squad – eSports Website</h3>
+      <p>Professional eSports site with responsive layout, team profiles, multimedia news section & working contact form via EmailJS.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/EmailJS-2F2F2F?style=flat" />
+      </p>
+      <a href="https://github.com/AkshatKardak/Game-Website"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://game-website-final.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💼 Personal Portfolio</h3>
+      <p>Cinematic portfolio with Three.js background, GSAP animations, Lenis smooth scrolling & Midnight Gold design system.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black" />
+        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+      </p>
+      <a href="https://github.com/AkshatKardak/Akshat-Portfolio"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -137,10 +165,10 @@ When I'm not coding, I'm on the cricket field or deep in a game session. 🏏�
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma)
 
 ### ⚙️ Backend & Languages
-![Backend](https://skillicons.dev/icons?i=nodejs,express,js,java)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,js,java,python)
 
 ### 🗄️ Databases & Cloud
-![DB](https://skillicons.dev/icons?i=mongodb,mysql)
+![DB](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)
 
 ### 🧰 Tools & DevOps
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman)
@@ -149,12 +177,13 @@ When I'm not coding, I'm on the cricket field or deep in a game session. 🏏�
 
 ## 📜 Certifications
 
-| Certificate | Issuer |
-|---|---|
-| 🐍 Basic Python Programming | Cisco |
-| 🌐 Introduction to Front-End Development | Simplilearn |
-| 🐍 The Complete Python Bootcamp | Udemy |
-| 💼 Software Engineering Job Simulation | JP Morgan |
+| 🏆 Certificate | 🏢 Issuer | 📅 Year |
+|---|---|---|
+| Full Stack Developer | Coursera / Meta | 2024 |
+| Software Engineering Job Simulation | JP Morgan (Forage) | 2024 |
+| Data Analytics Job Simulation | Deloitte Australia (Forage) | 2024 |
+| ReactJS for Beginners | Simplilearn | 2024 |
+| Front-End Software Engineering Simulation | Skyscanner (Forage) | 2024 |
 
 ---
 
@@ -198,10 +227,35 @@ When I'm not coding, I'm on the cricket field or deep in a game session. 🏏�
 
 ---
 
+## 🚧 What I'm Building Now
+
+```text
+🏙️  CivicPulse      — Civic tech mobile app for hyperlocal urban issue reporting (stack TBD)
+💰  Fintech App     — Personal finance dashboard · React + Node.js + MongoDB + Razorpay
+```
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=footer" width="100%"/>
-<br/>
-<sub>⚡ Built with passion from Mumbai 🇮🇳 | Always learning, always shipping</sub>
+
+<p>I'm always open to <strong>internship opportunities</strong>, <strong>collaborations</strong>, and <strong>cool project ideas</strong>.</p>
+
+<a href="https://www.linkedin.com/in/akshatkardak/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:kardakakshat@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/>
+
+<sub>⚡ Built with passion from Mumbai 🇮🇳 · Always learning, always shipping</sub>
+
 </div>
