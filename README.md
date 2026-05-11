@@ -214,11 +214,6 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=AkshatKardak&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-</div>
 
 <div align="center">
 
