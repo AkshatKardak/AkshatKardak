@@ -247,15 +247,6 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
 
 ---
 
-## 🚧 What I'm Building Now
-
-```text
-🏙️  CivicPulse      — Civic tech mobile app for hyperlocal urban issue reporting (stack TBD)
-💰  Fintech App     — Personal finance dashboard · React + Node.js + MongoDB + Razorpay
-```
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
