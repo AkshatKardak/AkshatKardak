@@ -14,6 +14,8 @@
   <a href="https://www.linkedin.com/in/akshatkardak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kardakakshat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/AkshatKardak"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://akshatkardak.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://raw.githubusercontent.com/AkshatKardak/Akshat-Portfolio/main/public/images/Akshat%20Kardak%20CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=AkshatKardak&style=for-the-badge&color=0e75b6" />
 </p>
 
@@ -41,9 +43,11 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🏢 Web Development Intern</h3>
-      <strong>Employment Express Verband LLP</strong><br/>
+      <strong><a href="https://github.com/AkshatKardak/Employment-Express-Verband-LLP">Employment Express Verband LLP</a></strong><br/>
+      <a href="https://akshatkardak.github.io/Employment-Express-Verband-LLP"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
       <em>Aug 2025 – Oct 2025 · 3 months</em>
       <br/><br/>
       <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -54,21 +58,6 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
         <li>Built & maintained web interfaces using React.js with focus on clean UI and solid functionality</li>
         <li>Shipped features end-to-end in real client-facing projects within a professional team</li>
         <li>First industry exposure — delivered in a structured professional dev environment</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📣 Publicity Team Member</h3>
-      <strong>Computer Society of India — DMCE Chapter</strong><br/>
-      <em>Aug 2024 – Apr 2025 · 9 months</em>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Community-6366f1?style=flat" />
-      <img src="https://img.shields.io/badge/Events-f59e0b?style=flat" />
-      <img src="https://img.shields.io/badge/Publicity-10b981?style=flat" />
-      <br/><br/>
-      <ul>
-        <li>Handled event promotion, social media coordination & outreach for college tech events</li>
-        <li>Organized college-level tech activities and community initiatives</li>
-        <li>Helped grow the college tech community through consistent publicity work</li>
       </ul>
     </td>
   </tr>
@@ -166,7 +155,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
       <a href="https://game-website-final.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/AkshatKardak/Akshat-Portfolio">
+      <a href="https://akshatkardak.vercel.app">
         <img src="./AK27.png" width="340" height="200" alt="AK27 Portfolio Preview" />
       </a>
       <br/><br/>
@@ -180,6 +169,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
         <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" />
       </p>
       <a href="https://github.com/AkshatKardak/Akshat-Portfolio"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://github.com/AkshatKardak/Akshat-Portfolio"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -214,11 +204,6 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=AkshatKardak&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-</div>
 
 <div align="center">
 
@@ -252,15 +237,6 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
 
 ---
 
-## 🚧 What I'm Building Now
-
-```text
-🏙️  CivicPulse      — Civic tech mobile app for hyperlocal urban issue reporting (stack TBD)
-💰  Fintech App     — Personal finance dashboard · React + Node.js + MongoDB + Razorpay
-```
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -273,6 +249,14 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
 &nbsp;
 <a href="mailto:kardakakshat@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://akshatkardak.vercel.app">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://raw.githubusercontent.com/AkshatKardak/Akshat-Portfolio/main/public/images/Akshat%20Kardak%20CV.pdf">
+  <img src="https://img.shields.io/badge/Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
 <br/><br/>
