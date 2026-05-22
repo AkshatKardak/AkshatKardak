@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/akshatkardak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kardakakshat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/AkshatKardak"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://akshatkardak.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://akshat-portfolio-teal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://raw.githubusercontent.com/AkshatKardak/Akshat-Portfolio/main/public/images/Akshat%20Kardak%20CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=AkshatKardak&style=for-the-badge&color=0e75b6" />
 </p>
@@ -59,6 +59,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
       </ul>
       <br/>
       <a href="https://github.com/AkshatKardak/Employment-Express-Verband-LLP"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://akshatkardak.github.io/Employment-Express-Verband-LLP"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -155,7 +156,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
       <a href="https://game-website-final.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://akshatkardak.vercel.app">
+      <a href="https://akshat-portfolio-teal.vercel.app">
         <img src="./AK27.png" width="340" height="200" alt="AK27 Portfolio Preview" />
       </a>
       <br/><br/>
@@ -169,7 +170,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
         <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" />
       </p>
       <a href="https://github.com/AkshatKardak/Akshat-Portfolio"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
-      <a href="https://akshatkardak.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://akshat-portfolio-teal.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -251,7 +252,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
   <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://akshatkardak.vercel.app">
+<a href="https://akshat-portfolio-teal.vercel.app">
   <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
