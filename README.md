@@ -45,9 +45,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
   <tr>
     <td width="100%" valign="top">
       <h3>🏢 Web Development Intern</h3>
-      <strong><a href="https://github.com/AkshatKardak/Employment-Express-Verband-LLP">Employment Express Verband LLP</a></strong><br/>
-      <a href="https://akshatkardak.github.io/Employment-Express-Verband-LLP"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
+      <strong>Employment Express Verband LLP</strong><br/>
       <em>Aug 2025 – Oct 2025 · 3 months</em>
       <br/><br/>
       <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -59,6 +57,8 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
         <li>Shipped features end-to-end in real client-facing projects within a professional team</li>
         <li>First industry exposure — delivered in a structured professional dev environment</li>
       </ul>
+      <br/>
+      <a href="https://github.com/AkshatKardak/Employment-Express-Verband-LLP"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
     </td>
   </tr>
 </table>
@@ -155,7 +155,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
       <a href="https://game-website-final.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://akshat-portfolio-teal.vercel.app">
+      <a href="https://akshatkardak.vercel.app">
         <img src="./AK27.png" width="340" height="200" alt="AK27 Portfolio Preview" />
       </a>
       <br/><br/>
@@ -169,7 +169,7 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
         <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" />
       </p>
       <a href="https://github.com/AkshatKardak/Akshat-Portfolio"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
-      <a href="https://akshat-portfolio-teal.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://akshatkardak.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
 </table>
