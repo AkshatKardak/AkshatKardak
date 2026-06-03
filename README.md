@@ -50,14 +50,21 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
       <strong>Employment Express Verband LLP</strong><br/>
       <em>Aug 2025 – Oct 2025 · 3 months</em>
       <br/><br/>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat&logo=leaflet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white" />
       <br/><br/>
       <ul>
-        <li>Built & maintained web interfaces using React.js with focus on clean UI and solid functionality</li>
-        <li>Shipped features end-to-end in real client-facing projects within a professional team</li>
-        <li>First industry exposure — delivered in a structured professional dev environment</li>
+        <li>Built <strong>AnitechCS</strong> — a full-featured professional corporate website deployed on GitHub Pages with a 95+ Lighthouse score across all categories</li>
+        <li>Implemented a <strong>multi-currency pricing system</strong> supporting 7 global currencies with static fallback rates and optional live API integration</li>
+        <li>Developed an <strong>automated holiday discount system</strong> (15% off) with date-aware detection for Thanksgiving, Christmas & New Year periods</li>
+        <li>Integrated <strong>Leaflet.js interactive maps</strong> with custom office markers, a smart chat widget with context-aware responses, and an expandable FAQ accordion</li>
+        <li>Built a <strong>content management admin panel</strong> with keyboard shortcuts, live preview, JSON export/import backup, and testimonials manager</li>
+        <li>Configured <strong>Google Analytics 4</strong> with custom event tracking for form submissions, currency changes, and user interactions</li>
+        <li>Implemented a <strong>math captcha security system</strong> (no external dependencies), form validation, and full SEO setup with JSON-LD structured data</li>
       </ul>
       <br/>
       <a href="https://github.com/AkshatKardak/Employment-Express-Verband-LLP"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
