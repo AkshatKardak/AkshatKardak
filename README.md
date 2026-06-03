@@ -27,13 +27,15 @@
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a Computer Science student from Mumbai who got hooked on building things the moment I wrote my first `console.log`. Since then, I haven't really stopped.
+I'm a Computer Science Engineering student at Datta Meghe College of Engineering, Navi Mumbai — focused on building scalable full-stack applications using React.js, Node.js, Express.js, MongoDB. I enjoy building products that solve practical real-world problems rather than static demo projects.
 
-I've shipped full-stack products — a real NGO donation platform, an AI tweet generator, a car rental system with a Gemini-powered chat assistant — and each one taught me more than any tutorial ever could. I work across the whole stack: React and Next.js on the front, Node.js and Express on the back, MongoDB for data, and whatever tool the problem demands.
+My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, an NGO donation platform with live Razorpay integration; and PaisaMind, an AI-powered financial intelligence platform designed for Indian freelancers and small businesses. Alongside full-stack development, I actively explore REST API architecture, backend scalability, authentication systems, and AI integration into practical applications.
 
-Right now I'm interning, building, learning Socket.io and Three.js on the side, and genuinely enjoying every bit of it. I believe the best developers aren't the ones who know everything — they're the ones who figure things out fast and ship anyway.
-
-When I'm not at my desk, I'm on the cricket field or two hours deep into a game I told myself I'd play for twenty minutes. 🏏🎮
+**What I'm Focused On**
+- Building scalable MERN stack applications with clean architecture
+- Developing AI-powered productivity platforms
+- Improving backend engineering and DSA skills
+- Participating in hackathons and collaborative product development
 
 > *"Ship it. Learn from it. Build something better."*
 
@@ -125,16 +127,16 @@ When I'm not at my desk, I'm on the cricket field or two hours deep into a game 
     </td>
     <td width="50%" valign="top" align="center">
       <br/>
-      <strong>📷 Face Recognition Attendance System</strong>
+      <strong>💰 PaisaMind – AI Finance Platform</strong>
       <br/><br/>
-      <p align="left">Real-time face recognition attendance system using OpenCV with CSV-based storage, Tkinter GUI and automated date-wise reports.</p>
+      <p align="left">AI-powered financial intelligence platform designed for Indian freelancers and small businesses — track income, expenses, goals & invoices with smart insights.</p>
       <p align="left">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
       </p>
-      <a href="https://github.com/AkshatKardak/Face-Recognition-Based-Attendance-System"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://github.com/AkshatKardak/PaisaMind"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
     </td>
   </tr>
   <tr>
