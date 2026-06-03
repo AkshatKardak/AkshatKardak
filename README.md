@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=580&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Express;MongoDB+%7C+MySQL+%7C+PostgreSQL;Building+Real-World+Products+%F0%9F%94%A5;Open+to+Internships+%26+Collabs!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=580&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Express;MongoDB+%7C+MySQL+%7C;Building+Real-World+Products+%F0%9F%94%A5;Open+to+Internships+%26+Collabs!" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -37,11 +37,10 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
 - Improving backend engineering and DSA skills
 - Participating in hackathons and collaborative product development
 
-> *"Ship it. Learn from it. Build something better."*
 
 ---
 
-## 💼 Experience
+## Experience
 
 <table>
   <tr>
@@ -133,8 +132,9 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
       <a href="https://unitedimpact-app.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top" align="center">
+    <img src="./PaisaMind.png" width="340" height="200" alt="PaisaMind Preview" />
       <br/>
-      <strong>💰 PaisaMind – AI Finance Platform</strong>
+      <strong>PaisaMind – AI Finance Platform</strong>
       <br/><br/>
       <p align="left">AI-powered financial intelligence platform designed for Indian freelancers and small businesses — track income, expenses, goals & invoices with smart insights.</p>
       <p align="left">
@@ -144,6 +144,7 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
       </p>
       <a href="https://github.com/AkshatKardak/PaisaMind"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://paisamind.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
@@ -189,26 +190,16 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma)
+![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind)
 
 ### ⚙️ Backend & Languages
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,js,java,python)
 
 ### 🗄️ Databases & Cloud
-![DB](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)
+![DB](https://skillicons.dev/icons?i=mongodb,mysql)
 
 ### 🧰 Tools & DevOps
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman)
-
----
-
-## 📜 Certifications
-
-| 🏆 Certificate | 🏢 Issuer | 📅 Year |
-|---|---|---|
-| Software Engineering Job Simulation | JP Morgan (Forage) | 2025 |
-| ReactJS for Beginners | Simplilearn | 2025 |
-| Front-End Software Engineering Simulation | Skyscanner (Forage) | 2025 |
 
 ---
 
@@ -269,12 +260,6 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
   <img src="https://img.shields.io/badge/Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
 <br/>
-
 <sub>⚡ Built with passion from Mumbai 🇮🇳 · Always learning, always shipping</sub>
-
 </div>
