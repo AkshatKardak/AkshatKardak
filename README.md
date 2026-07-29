@@ -1,10 +1,9 @@
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./githubanner_light.svg">
-  <img src="images/githubanner_dark.svg" width="100%" alt="Akshat Kardak Banner" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/images/githubanner_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/images/githubanner_light.svg">
+    <img src="/images/githubanner_dark.svg" width="100%" alt="Akshat Kardak Banner" />
+  </picture>
 </div>
 
 <div align="center">
