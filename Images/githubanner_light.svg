@@ -1,1 +1,88 @@
-placeholder_light
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="610" viewBox="0 0 1180 610">
+  <defs>
+    <clipPath id="portrait-clip">
+      <rect width="420" height="610" rx="0"/>
+    </clipPath>
+    <linearGradient id="grad_light" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.7" stop-color="#EFF6FF" stop-opacity="0"/>
+      <stop offset="1"   stop-color="#F8FAFC" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1180" height="610" fill="#F8FAFC"/>
+
+  <!-- Terminal chrome top bar -->
+  <rect width="1180" height="30" fill="#0891B2" opacity="0.07"/>
+  <circle cx="16" cy="15" r="5" fill="#EF4444" opacity="0.85"/>
+  <circle cx="32" cy="15" r="5" fill="#F59E0B" opacity="0.85"/>
+  <circle cx="48" cy="15" r="5" fill="#059669" opacity="0.85"/>
+  <text x="68" y="20" font-size="11" fill="#475569" font-family="monospace" letter-spacing="1">profile.sh --live</text>
+
+  <!-- Portrait panel background -->
+  <rect width="420" height="610" fill="#EFF6FF"/>
+
+  <!-- Photo clipped to portrait frame -->
+  <image href="Images/Akshat.jpeg" x="0" y="0" width="420" height="610"
+         preserveAspectRatio="xMidYMin slice" clip-path="url(#portrait-clip)"/>
+
+  <!-- Fade overlay bottom -->
+  <rect width="420" height="610" fill="url(#grad_light)"/>
+
+  <!-- VISUAL.MAP label -->
+  <text x="14" y="22" font-size="10" fill="#0891B2" font-family="monospace" letter-spacing="3" opacity="0.7">VISUAL.MAP</text>
+
+  <!-- Vertical divider -->
+  <line x1="420" y1="0" x2="420" y2="610" stroke="#0891B2" stroke-width="1" opacity="0.2" stroke-dasharray="4,6"/>
+
+  <!-- Info panel -->
+  <text x="450" y="50" font-size="11" fill="#475569" font-family="monospace" letter-spacing="3">SYSTEM.INFO</text>
+  <text x="1045" y="50" font-size="11" fill="#EF4444" font-family="monospace" text-anchor="end" letter-spacing="1">&#9679; LIVE</text>
+  <rect x="450" y="58" width="198" height="22" rx="11" fill="#0891B2" opacity="0.12"/>
+  <text x="460" y="74" font-size="13" fill="#0891B2" font-family="monospace" font-weight="700">@AkshatKardak</text>
+  <line x1="450" y1="90" x2="1045" y2="90" stroke="#475569" stroke-width="0.5" stroke-dasharray="3,5" opacity="0.25"/>
+  <text x="450" y="112" font-size="13" fill="#475569" font-family="monospace">Subject</text>
+  <line x1="516" y1="109" x2="920" y2="109" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="112" font-size="13" fill="#0F172A" font-family="monospace" text-anchor="end">Akshat Kardak</text>
+  <text x="450" y="135" font-size="13" fill="#475569" font-family="monospace">Role</text>
+  <line x1="482" y1="132" x2="840" y2="132" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="135" font-size="13" fill="#0F172A" font-family="monospace" text-anchor="end">Full-Stack Developer</text>
+  <text x="450" y="158" font-size="13" fill="#475569" font-family="monospace">Origin</text>
+  <line x1="498" y1="155" x2="880" y2="155" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="158" font-size="13" fill="#0F172A" font-family="monospace" text-anchor="end">Mumbai &#183; India</text>
+  <text x="450" y="181" font-size="13" fill="#475569" font-family="monospace">Edu</text>
+  <line x1="474" y1="178" x2="820" y2="178" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="181" font-size="13" fill="#0F172A" font-family="monospace" text-anchor="end">CS Engineering &#183; DMCE</text>
+  <text x="450" y="204" font-size="13" fill="#475569" font-family="monospace">Status</text>
+  <line x1="499" y1="201" x2="730" y2="201" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="204" font-size="13" fill="#0891B2" font-family="monospace" text-anchor="end">Building &#183; Learning &#183; Shipping</text>
+  <line x1="450" y1="216" x2="1045" y2="216" stroke="#475569" stroke-width="0.5" stroke-dasharray="3,5" opacity="0.25"/>
+  <text x="450" y="240" font-size="13" fill="#475569" font-family="monospace">Core.Lang</text>
+  <line x1="527" y1="237" x2="830" y2="237" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="240" font-size="13" fill="#0F172A" font-family="monospace" text-anchor="end">Python &#183; JS/TS &#183; C++</text>
+  <text x="450" y="263" font-size="13" fill="#475569" font-family="monospace">Frontend</text>
+  <line x1="511" y1="260" x2="790" y2="260" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="263" font-size="13" fill="#0F172A" font-family="monospace" text-anchor="end">React &#183; Next.js &#183; Tailwind</text>
+  <text x="450" y="286" font-size="13" fill="#475569" font-family="monospace">Backend</text>
+  <line x1="509" y1="283" x2="810" y2="283" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="286" font-size="13" fill="#0F172A" font-family="monospace" text-anchor="end">Node.js &#183; Express &#183; FastAPI</text>
+  <text x="450" y="309" font-size="13" fill="#475569" font-family="monospace">Database</text>
+  <line x1="513" y1="306" x2="820" y2="306" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="309" font-size="13" fill="#0F172A" font-family="monospace" text-anchor="end">MongoDB &#183; MySQL &#183; SQLite</text>
+  <text x="450" y="332" font-size="13" fill="#475569" font-family="monospace">Infra</text>
+  <line x1="482" y1="329" x2="870" y2="329" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="332" font-size="13" fill="#0F172A" font-family="monospace" text-anchor="end">Vercel &#183; Netlify &#183; Git</text>
+  <line x1="450" y1="344" x2="1045" y2="344" stroke="#475569" stroke-width="0.5" stroke-dasharray="3,5" opacity="0.25"/>
+  <text x="450" y="368" font-size="13" fill="#475569" font-family="monospace">Mail</text>
+  <line x1="474" y1="365" x2="780" y2="365" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="368" font-size="13" fill="#059669" font-family="monospace" text-anchor="end">kardakakshat@gmail.com</text>
+  <text x="450" y="391" font-size="13" fill="#475569" font-family="monospace">Portfolio</text>
+  <line x1="513" y1="388" x2="710" y2="388" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="391" font-size="13" fill="#059669" font-family="monospace" text-anchor="end">akshat-portfolio-teal.vercel.app</text>
+  <text x="450" y="414" font-size="13" fill="#475569" font-family="monospace">LinkedIn</text>
+  <line x1="511" y1="411" x2="870" y2="411" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="414" font-size="13" fill="#0F172A" font-family="monospace" text-anchor="end">in/akshatkardak</text>
+  <text x="450" y="437" font-size="13" fill="#475569" font-family="monospace">GitHub</text>
+  <line x1="499" y1="434" x2="880" y2="434" stroke="#475569" stroke-width="0.6" stroke-dasharray="2,5" opacity="0.3"/>
+  <text x="1045" y="437" font-size="13" fill="#0F172A" font-family="monospace" text-anchor="end">AkshatKardak</text>
+</svg>
