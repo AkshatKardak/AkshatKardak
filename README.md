@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./githubanner.png" width="100%" alt="Akshat Kardak Banner" />
+<img src="images/githubanner.png" width="100%" alt="Akshat Kardak Banner" />
 
 </div>
 
@@ -80,7 +80,7 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://rentridefrontend.vercel.app/">
-        <img src="./RentRide.png" width="340" height="200" alt="RentRide Preview" />
+        <img src="images/RentRide.png" width="340" height="200" alt="RentRide Preview" />
       </a>
       <br/><br/>
       <strong>RentRide – AI Car Rental</strong>
@@ -97,7 +97,7 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://roasthubfront.vercel.app/">
-        <img src="./RoastHub.png" width="340" height="200" alt="RoastHub Preview" />
+        <img src="images/RoastHub.png" width="340" height="200" alt="RoastHub Preview" />
       </a>
       <br/><br/>
       <strong>RoastHub – AI Tweet Generator</strong>
@@ -116,7 +116,7 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://unitedimpact-app.netlify.app/">
-        <img src="./United.png" width="340" height="200" alt="UnitedImpact Preview" />
+        <img src="images/United.png" width="340" height="200" alt="UnitedImpact Preview" />
       </a>
       <br/><br/>
       <strong>UnitedImpact – NGO & Donor Platform</strong>
@@ -132,7 +132,7 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
       <a href="https://unitedimpact-app.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top" align="center">
-    <img src="./PaisaMind.png" width="340" height="200" alt="PaisaMind Preview" />
+    <img src="images/PaisaMind.png" width="340" height="200" alt="PaisaMind Preview" />
       <br/>
       <strong>PaisaMind – AI Finance Platform</strong>
       <br/><br/>
@@ -150,7 +150,7 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://game-website-final.vercel.app">
-        <img src="./Game-Website.png" width="340" height="200" alt="Galactic Squad Preview" />
+        <img src="images/Game-Website.png" width="340" height="200" alt="Galactic Squad Preview" />
       </a>
       <br/><br/>
       <strong>Galactic Squad – eSports Website</strong>
@@ -167,10 +167,10 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://akshat-portfolio-teal.vercel.app">
-        <img src="./AK27.png" width="340" height="200" alt="AK27 Portfolio Preview" />
+        <img src="images/AK27.png" width="340" height="200" alt="AK27 Portfolio Preview" />
       </a>
       <br/><br/>
-      <strong>Personal Portfolio</strong>
+      <strong>Portfolio</strong>
       <br/><br/>
       <p align="left">Cinematic portfolio with Three.js background, GSAP animations, Lenis smooth scrolling & Midnight Gold design system.</p>
       <p align="left">
@@ -261,5 +261,5 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
 </a>
 
 <br/>
-<sub>⚡ Built with passion from Mumbai 🇮🇳 · Always learning, always shipping</sub>
+<sub>Built with passion from Mumbai· Always learning, always shipping</sub>
 </div>
