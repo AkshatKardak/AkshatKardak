@@ -1,14 +1,14 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/images/githubanner_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/images/githubanner_light.svg">
-    <img src="/images/githubanner_dark.svg" width="100%" alt="Akshat Kardak Banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="/Images/githubanner_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/Images/githubanner_light.svg">
+    <img src="/Images/githubanner_dark.svg" width="100%" alt="Akshat Kardak Banner" />
   </picture>
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=580&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Express;MongoDB+%7C+MySQL+%7C;Building+Real-World+Products+%F0%9F%94%A5;Open+to+Internships+%26+Collabs!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=580&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Express;MongoDB+%7C+MySQL%7C;Building+Real-World+Products+%F0%9F%94%A5;Open+to+Internships+%26+Collabs!" alt="Typing SVG" />
 
 <br/>
 
