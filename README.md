@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/Images/githubanner_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/Images/githubanner_light.svg">
-    <img src="/Images/githubanner_dark.svg" width="100%" alt="Akshat Kardak Banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_light.png">
+    <img src="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_dark.png" width="100%" alt="Akshat Kardak Banner" />
   </picture>
 </div>
 
