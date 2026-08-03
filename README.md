@@ -1,24 +1,14 @@
-<div align="center">
 
-<iframe src="https://akshatkardak.github.io/AkshatKardak/akshat_profile_terminal.html" width="100%" height="500px" style="border:none; border-radius:12px; overflow:hidden;" scrolling="no" title="Interactive Terminal Profile"></iframe>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Akshat%20Kardak%20👋&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Mumbai%20🇮🇳&descAlignY=62&descSize=18&fontColor=ffffff&animation=twinkling" alt="header"/>
+</p>
 
-</div>
+<!-- 🎬 PROFILE GIF 🎬 -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+</p>
 
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_light.svg">
-    <img src="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_dark.svg" width="100%" alt="Akshat Kardak Banner" />
-  </picture>
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=580&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Express;MongoDB+%7C+MySQL%7C;Building+Real-World+Products+%F0%9F%94%A5;Open+to+Internships+%26+Collabs!" alt="Typing SVG" />
-
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <p>
   <a href="https://www.linkedin.com/in/akshatkardak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
