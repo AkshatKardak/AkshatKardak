@@ -1,4 +1,14 @@
 <div align="center">
+
+[![🖥️ Interactive Terminal Profile — Click to View Live](https://img.shields.io/badge/🖥️%20Interactive%20Terminal%20Profile-Click%20to%20View%20Live-d4af37?style=for-the-badge&labelColor=0b0d12&color=d4af37)](https://akshatkardak.github.io/AkshatKardak/akshat_profile_terminal.html)
+
+> ✨ **[→ Open my interactive terminal profile card](https://akshatkardak.github.io/AkshatKardak/akshat_profile_terminal.html)** — a live animated terminal-style profile built with pure HTML/CSS/JS. ✨
+
+</div>
+
+---
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_light.png">
