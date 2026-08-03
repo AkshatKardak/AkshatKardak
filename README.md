@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Akshat%20Kardak%20👋&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Mumbai%20🇮🇳&descAlignY=62&descSize=18&fontColor=ffffff&animation=twinkling" alt="header"/>
 </p>
