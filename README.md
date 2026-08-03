@@ -1,8 +1,6 @@
 <div align="center">
 
-[![🖥️ Interactive Terminal Profile — Click to View Live](https://img.shields.io/badge/🖥️%20Interactive%20Terminal%20Profile-Click%20to%20View%20Live-d4af37?style=for-the-badge&labelColor=0b0d12&color=d4af37)](https://akshatkardak.github.io/AkshatKardak/akshat_profile_terminal.html)
-
-> ✨ **[→ Open my interactive terminal profile card](https://akshatkardak.github.io/AkshatKardak/akshat_profile_terminal.html)** — a live animated terminal-style profile built with pure HTML/CSS/JS. ✨
+<iframe src="https://akshatkardak.github.io/AkshatKardak/akshat_profile_terminal.html" width="100%" height="500px" style="border:none; border-radius:12px; overflow:hidden;" scrolling="no" title="Interactive Terminal Profile"></iframe>
 
 </div>
 
@@ -10,9 +8,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_light.png">
-    <img src="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_dark.png" width="100%" alt="Akshat Kardak Banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_light.svg">
+    <img src="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Images/githubanner_dark.svg" width="100%" alt="Akshat Kardak Banner" />
   </picture>
 </div>
 
@@ -39,22 +37,56 @@
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a Computer Science Engineering student at Datta Meghe College of Engineering, Navi Mumbai — focused on building scalable full-stack applications using React.js, Node.js, Express.js, MongoDB. I enjoy building products that solve practical real-world problems rather than static demo projects.
+Hi, I'm **Akshat Kardak**, a Computer Science Engineering student at **Datta Meghe College of Engineering, Navi Mumbai**, and a passionate **Full Stack Developer** who enjoys building scalable, user-centric web applications that solve real-world problems.
 
-My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, an NGO donation platform with live Razorpay integration; and PaisaMind, an AI-powered financial intelligence platform designed for Indian freelancers and small businesses. Alongside full-stack development, I actively explore REST API architecture, backend scalability, authentication systems, and AI integration into practical applications.
+I specialize in developing complete end-to-end applications, from designing intuitive user interfaces to building secure backend services, REST APIs, databases, authentication systems, and AI-powered features. My primary focus is on creating products that are production-ready, maintainable, and capable of solving practical business challenges rather than simply demonstrating technical concepts.
 
-**What I'm Focused On**
-- Building scalable MERN stack applications with clean architecture
-- Developing AI-powered productivity platforms
-- Improving backend engineering and DSA skills
-- Participating in hackathons and collaborative product development
+Over the past few years, I've built several full-stack applications including **RentRide**, an AI-powered car rental platform, **PaisaMind**, an AI Finance OS designed for freelancers and small businesses, **UnitedImpact**, a digital platform connecting NGOs with donors, and multiple other web applications that integrate modern backend architecture with intelligent automation.
 
+During my internship at **Mastek Ltd.**, I worked on enterprise-level AI solutions using **Next.js, FastAPI, TypeScript, Python, and REST APIs**, where I contributed to projects involving AI-powered document processing, QR & Barcode Inventory Management, Doppla SoundShield, and an ESP32-based Face Recognition Attendance System. This experience strengthened my understanding of scalable application architecture, backend optimization, asynchronous processing, API integrations, and enterprise software development practices.
+
+Previously, as a **Web Development Intern at Employment Express Verband LLP**, I developed and maintained responsive corporate websites, implemented multi-currency support, optimized frontend performance, integrated analytics, and collaborated using Git and GitHub throughout the development lifecycle.
+
+Beyond development, I enjoy learning **backend engineering, system design, authentication strategies, database optimization, cloud deployment, and practical AI integration**. I continuously improve my problem-solving abilities through **Data Structures & Algorithms**, contribute to personal projects, and actively participate in hackathons and collaborative software development.
+
+**🚀 Currently Focused On**
+- Building scalable full-stack applications with clean architecture
+- Developing AI-powered SaaS and productivity platforms
+- Exploring backend scalability, system design, and cloud deployment
+- Strengthening Data Structures & Algorithms for software engineering roles
+- Learning modern AI integration techniques for real-world applications
+- Contributing to impactful open-source and collaborative projects
+
+> **"I believe great software isn't just built with good code—it solves real problems, scales efficiently, and delivers an exceptional user experience."**
 
 ---
 
 ## Experience
 
 <table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🏢 Web Development Intern</h3>
+      <strong>Mastek Ltd.</strong><br/>
+      <em>June 2026 – July 2026</em>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+      <br/><br/>
+      <ul>
+        <li>Developed enterprise-grade full-stack applications using <strong>Next.js, FastAPI, Python, and TypeScript</strong> for AI-powered business solutions</li>
+        <li>Built responsive interfaces and integrated frontend components with secure backend APIs for seamless user experiences</li>
+        <li>Designed scalable backend services featuring asynchronous processing, file uploads, automated PDF generation, and optimized API execution</li>
+        <li>Contributed to <strong>Doppla SoundShield</strong>, an AI-powered music authenticity platform focused on copyright verification and voice clone detection</li>
+        <li>Developed an <strong>ESP32 Face Recognition Attendance System</strong>, integrating IoT devices with AI-powered facial recognition for automated attendance management</li>
+        <li>Worked on a <strong>QR & Barcode Inventory Management System</strong> for real-time asset tracking and inventory operations</li>
+        <li>Collaborated within agile teams, participated in code reviews, and followed enterprise software development practices</li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td width="100%" valign="top">
       <h3>🏢 Web Development Intern</h3>
@@ -92,29 +124,30 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://rentridefrontend.vercel.app/">
-        <img src="images/RentRide.png" width="340" height="200" alt="RentRide Preview" />
+        <img src="Images/RentRide.png" width="340" height="200" alt="RentRide Preview" />
       </a>
       <br/><br/>
       <strong>RentRide – AI Car Rental</strong>
       <br/><br/>
-      <p align="left">Full-stack MERN car rental platform with <strong>Gemini AI chat assistant</strong>, admin dashboard, damage report system & Razorpay payments.</p>
+      <p align="left">Built a complete car rental platform enabling users to browse vehicles, make bookings, manage rentals, and complete secure online payments. Features <strong>Gemini AI chat assistant</strong>, JWT authentication with role-based access, admin dashboard, booking management, and an integrated Razorpay payment workflow.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=3395FF" />
       </p>
       <a href="https://github.com/AkshatKardak/RentRide"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
       <a href="https://rentridefrontend.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://roasthubfront.vercel.app/">
-        <img src="images/RoastHub.png" width="340" height="200" alt="RoastHub Preview" />
+        <img src="Images/RoastHub.png" width="340" height="200" alt="RoastHub Preview" />
       </a>
       <br/><br/>
       <strong>RoastHub – AI Tweet Generator</strong>
       <br/><br/>
-      <p align="left">AI-powered savage tweet generator with authentic Indian flavor — Bollywood refs, cricket banter & desi slang. Powered by <strong>Groq API</strong>.</p>
+      <p align="left">Created an AI platform generating humorous, context-aware tweets using different tones, personalities, and writing styles with authentic Indian flavor — Bollywood refs, cricket banter & desi slang. Features custom prompt engineering, multiple roast modes, real-time AI generation, copy-to-clipboard, and conversation history. Powered by <strong>Groq API</strong>.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
@@ -128,27 +161,30 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://unitedimpact-app.netlify.app/">
-        <img src="images/United.png" width="340" height="200" alt="UnitedImpact Preview" />
+        <img src="Images/United.png" width="340" height="200" alt="UnitedImpact Preview" />
       </a>
       <br/><br/>
       <strong>UnitedImpact – NGO & Donor Platform</strong>
       <br/><br/>
-      <p align="left">MERN NGO platform with real-time geo-mapping, live campaign tracking & end-to-end Razorpay donation flow.</p>
+      <p align="left">Built a donation platform connecting NGOs with donors through transparent campaigns and secure online contributions. Features live campaign tracking, location-based NGO discovery, Razorpay integration, volunteer management, real-time geo-mapping, and an admin dashboard for campaign monitoring.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=3395FF" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
       </p>
       <a href="https://github.com/AkshatKardak/UnitedImpact"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
       <a href="https://unitedimpact-app.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top" align="center">
-    <img src="images/PaisaMind.png" width="340" height="200" alt="PaisaMind Preview" />
-      <br/>
-      <strong>PaisaMind – AI Finance Platform</strong>
+      <a href="https://paisamind.netlify.app/">
+        <img src="Images/PaisaMind.png" width="340" height="200" alt="PaisaMind Preview" />
+      </a>
       <br/><br/>
-      <p align="left">AI-powered financial intelligence platform designed for Indian freelancers and small businesses — track income, expenses, goals & invoices with smart insights.</p>
+      <strong>PaisaMind – AI Finance OS</strong>
+      <br/><br/>
+      <p align="left">Developed an AI-powered financial platform helping freelancers and small businesses manage expenses, invoices, taxes, cash flow, and overall financial planning from a single dashboard. Implements AI-driven financial insights, GST-ready invoice generation, automated email reminders, recurring payment tracking, and intelligent business analytics.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
@@ -162,7 +198,7 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://game-website-final.vercel.app">
-        <img src="images/Game-Website.png" width="340" height="200" alt="Galactic Squad Preview" />
+        <img src="Images/Game-Website.png" width="340" height="200" alt="Galactic Squad Preview" />
       </a>
       <br/><br/>
       <strong>Galactic Squad – eSports Website</strong>
@@ -179,12 +215,12 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://akshat-portfolio-teal.vercel.app">
-        <img src="images/AK27.png" width="340" height="200" alt="AK27 Portfolio Preview" />
+        <img src="Images/AK27.png" width="340" height="200" alt="Portfolio Preview" />
       </a>
       <br/><br/>
-      <strong>Portfolio</strong>
+      <strong>Developer Portfolio</strong>
       <br/><br/>
-      <p align="left">Cinematic portfolio with Three.js background, GSAP animations, Lenis smooth scrolling & Midnight Gold design system.</p>
+      <p align="left">Designed a modern portfolio showcasing projects, technical skills, experience, and achievements through an interactive and responsive interface. Features cinematic animations, smooth scrolling, project filtering, dark/light theme support, Three.js background, GSAP animations & Midnight Gold design system.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
@@ -202,13 +238,13 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,ts)
 
 ### ⚙️ Backend & Languages
-![Backend](https://skillicons.dev/icons?i=nodejs,express,js,java,python)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,js,java,python,fastapi)
 
 ### 🗄️ Databases & Cloud
-![DB](https://skillicons.dev/icons?i=mongodb,mysql)
+![DB](https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite)
 
 ### 🧰 Tools & DevOps
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman)
@@ -273,5 +309,5 @@ My projects include RentRide, an AI-assisted car rental platform; UnitedImpact, 
 </a>
 
 <br/>
-<sub>Built with passion from Mumbai· Always learning, always shipping</sub>
+<sub>Built with passion from Mumbai · Always learning, always shipping</sub>
 </div>
