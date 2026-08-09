@@ -1,7 +1,15 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Akshat%20Kardak%20👋&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Mumbai%20🇮🇳&descAlignY=62&descSize=18&fontColor=ffffff&animation=twinkling" alt="header"/>
+  <a href="https://github.com/AkshatKardak">
+    <img src="Images/githubanner_gitskins.png" width="100%" alt="Akshat Kardak GitSkins Profile Banner" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+MERN+Stack+%7C+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;Building+Scalable+Web+Apps+%26+AI+SaaS+Platforms;Next.js+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Python+%C2%B7+Node.js" alt="Typing Subtitle" />
+  </a>
 </p>
 
 <!-- 🎬 PROFILE GIF 🎬 -->
@@ -244,6 +252,24 @@ Beyond development, I enjoy learning **backend engineering, system design, authe
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+<a href="https://github.com/AkshatKardak">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshatKardak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akshat Kardak's GitHub Stats" height="175" />
+</a>
+<a href="https://github.com/AkshatKardak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatKardak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="175" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/AkshatKardak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatKardak&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</a>
+
+</div>
 
 <div align="center">
 
