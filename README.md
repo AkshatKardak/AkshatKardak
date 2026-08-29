@@ -40,7 +40,7 @@ Hi, I'm **Akshat Kardak**, a Computer Science Engineering student at **Datta Meg
 
 I specialize in developing complete end-to-end applications, from designing intuitive user interfaces to building secure backend services, REST APIs, databases, authentication systems, and AI-powered features. My primary focus is on creating products that are production-ready, maintainable, and capable of solving practical business challenges rather than simply demonstrating technical concepts.
 
-Over the past few years, I've built several full-stack applications including **RentRide**, an AI-powered car rental platform, **PaisaMind**, an AI Finance OS designed for freelancers and small businesses, **UnitedImpact**, a digital platform connecting NGOs with donors, and multiple other web applications that integrate modern backend architecture with intelligent automation.
+Over the past few years, I've built several full-stack applications including **NagarWatch**, an enterprise-grade civic issue reporting and governance platform, **RentRide**, an AI-powered car rental platform, **PaisaMind**, an AI Finance OS designed for freelancers and small businesses, **UnitedImpact**, a digital platform connecting NGOs with donors, and multiple other web applications that integrate modern backend architecture with intelligent automation.
 
 During my internship at **Mastek Ltd.**, I worked on enterprise-level AI solutions using **Next.js, FastAPI, TypeScript, Python, and REST APIs**, where I contributed to projects involving AI-powered document processing, QR & Barcode Inventory Management, Doppla SoundShield, and an ESP32-based Face Recognition Attendance System. This experience strengthened my understanding of scalable application architecture, backend optimization, asynchronous processing, API integrations, and enterprise software development practices.
 
@@ -196,21 +196,22 @@ Beyond development, I enjoy learning **backend engineering, system design, authe
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://game-website-final.vercel.app">
-        <img src="Images/Game-Website.png" width="340" height="200" alt="Galactic Squad Preview" />
+      <a href="https://nagarwatch.netlify.app/">
+        <img src="Images/NagarWatch.png" width="340" height="200" alt="NagarWatch Preview" />
       </a>
       <br/><br/>
-      <strong>Galactic Squad – eSports Website</strong>
+      <strong>NagarWatch – Civic Issue & Governance Platform</strong>
       <br/><br/>
-      <p align="left">Professional eSports site with responsive layout, team profiles, multimedia news section & working contact form via EmailJS.</p>
+      <p align="left">Built an enterprise-grade, real-time civic issue reporting, tracking, and governance platform engineered specifically for Indian municipalities. Features 13+ Indian state languages with voice STT, geospatial duplicate prevention, sovereign India GIS map, CPWD contractor performance benchmarking, before/after photo proof audit lifecycle, and automated legal RTI petitions.</p>
       <p align="left">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/EmailJS-2F2F2F?style=flat" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
       </p>
-      <a href="https://github.com/AkshatKardak/Game-Website"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
-      <a href="https://game-website-final.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/AkshatKardak/NagarWatch"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://nagarwatch.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://akshat-portfolio-teal.vercel.app">
