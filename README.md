@@ -40,7 +40,7 @@ Hi, I'm **Akshat Kardak**, a Computer Science Engineering student at **Datta Meg
 
 I specialize in developing complete end-to-end applications, from designing intuitive user interfaces to building secure backend services, REST APIs, databases, authentication systems, and AI-powered features. My primary focus is on creating products that are production-ready, maintainable, and capable of solving practical business challenges rather than simply demonstrating technical concepts.
 
-Over the past few years, I've built several full-stack applications including **NagarWatch**, an enterprise-grade civic issue reporting and governance platform, **RentRide**, an AI-powered car rental platform, **PaisaMind**, an AI Finance OS designed for freelancers and small businesses, **UnitedImpact**, a digital platform connecting NGOs with donors, and multiple other web applications that integrate modern backend architecture with intelligent automation.
+Over the past few years, I've built several full-stack applications including **SerpoAI**, an autonomous search growth & SEO operating system, **NagarWatch**, an enterprise-grade civic issue reporting and governance platform, **RentRide**, an AI-powered car rental platform, **PaisaMind**, an AI Finance OS designed for freelancers and small businesses, **UnitedImpact**, a digital platform connecting NGOs with donors, and multiple other web applications that integrate modern backend architecture with intelligent automation.
 
 During my internship at **Mastek Ltd.**, I worked on enterprise-level AI solutions using **Next.js, FastAPI, TypeScript, Python, and REST APIs**, where I contributed to projects involving AI-powered document processing, QR & Barcode Inventory Management, Doppla SoundShield, and an ESP32-based Face Recognition Attendance System. This experience strengthened my understanding of scalable application architecture, backend optimization, asynchronous processing, API integrations, and enterprise software development practices.
 
@@ -140,21 +140,21 @@ Beyond development, I enjoy learning **backend engineering, system design, authe
       <a href="https://rentridefrontend.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://roasthubfront.vercel.app/">
-        <img src="Images/RoastHub.png" width="340" height="200" alt="RoastHub Preview" />
+      <a href="https://github.com/AkshatKardak/SEO">
+        <img src="Images/SEO.png" width="340" height="200" alt="SerpoAI Preview" />
       </a>
       <br/><br/>
-      <strong>RoastHub – AI Tweet Generator</strong>
+      <strong>SerpoAI – Autonomous SEO Growth OS</strong>
       <br/><br/>
-      <p align="left">Created an AI platform generating humorous, context-aware tweets using different tones, personalities, and writing styles with authentic Indian flavor — Bollywood refs, cricket banter & desi slang. Features custom prompt engineering, multiple roast modes, real-time AI generation, copy-to-clipboard, and conversation history. Powered by <strong>Groq API</strong>.</p>
+      <p align="left">Engineered an autonomous search growth operating system that transforms passive SEO audits into continuous execution. Features deterministic mathematical ICE prioritization, in-server ML regression suite for traffic lift prediction, Generative Engine Optimization (GEO) citation radar, AST-verified code patch synthesis, Serpo Bot 1-click GitHub PR dispatch, and closed-loop revenue attribution.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Groq_API-f59e0b?style=flat" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white" />
       </p>
-      <a href="https://github.com/AkshatKardak/RoastHub"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
-      <a href="https://roasthubfront.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/AkshatKardak/SEO"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
     </td>
   </tr>
   <tr>
