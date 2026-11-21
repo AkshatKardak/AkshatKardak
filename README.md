@@ -25,27 +25,36 @@
 
 ## About Me
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table>
+  <tr>
+    <td width="330" valign="top">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" alt="Developer at work" />
+    </td>
+    <td valign="top">
+      <p>Hi, I'm <strong>Akshat Kardak</strong> — a <strong>Full Stack Developer</strong> and Computer Science engineering student at <strong>Datta Meghe College of Engineering, Mumbai</strong>.</p>
+      <p>I build products end to end: the interface, the backend behind it, the database, authentication, payments, and the AI features on top. My focus is production-ready software a real business can run — not a demo that stops at the happy path.</p>
+    </td>
+  </tr>
+</table>
 
-Hi, I'm **Akshat Kardak**, a Computer Science Engineering student at **Datta Meghe College of Engineering, Mumbai**, and a passionate **Full Stack Developer** who enjoys building scalable, user-centric web applications that solve real-world problems.
+<table>
+  <tr><td><strong>Focus</strong></td><td>Full-stack engineering · Mern Stack Engineering</td></tr>
+  <tr><td><strong>Daily stack</strong></td><td>React.js · FastAPI · Python · Node.js · MongoDB</td></tr>
+  <tr><td><strong>Shipped</strong></td><td>SerpoAI · NagarWatch · RentRide · PaisaMind · UnitedImpact</td></tr>
+  <tr><td><strong>Based in</strong></td><td>Mumbai, India</td></tr>
+  <tr><td><strong>Open to</strong></td><td>Internships and full-time developer roles</td></tr>
+</table>
 
-I specialize in developing complete end-to-end applications, from designing intuitive user interfaces to building secure backend services, REST APIs, databases, authentication systems, and AI-powered features. My primary focus is on creating products that are production-ready, maintainable, and capable of solving practical business challenges rather than simply demonstrating technical concepts.
+**💼 Internships**
 
-Over the past few years, I've built several full-stack applications including **SerpoAI**, an autonomous search growth & SEO operating system, **NagarWatch**, an enterprise-grade civic issue reporting and governance platform, **RentRide**, an AI-powered car rental platform, **PaisaMind**, an AI Finance OS designed for freelancers and small businesses, **UnitedImpact**, a digital platform connecting NGOs with donors, and multiple other web applications that integrate modern backend architecture with intelligent automation.
+- **Mastek Ltd.** — *Web Development Intern, Jun–Jul 2026.* Built enterprise AI features in Next.js and FastAPI: AI document processing, an ESP32 face-recognition attendance system and a QR/barcode inventory tracker. Learned how async processing, API design and PDF generation hold up under real usage.
+- **Employment Express Verband LLP** — *Web Development Intern, Aug–Oct 2025.* Shipped a corporate site at a 95+ Lighthouse score with a 7-currency pricing engine and GA4 tracking. Learned that frontend work is performance, analytics and SEO as much as layout.
 
-During my internship at **Mastek Ltd.**, I worked on enterprise-level AI solutions using **Next.js, FastAPI, TypeScript, Python, and REST APIs**, where I contributed to projects involving AI-powered document processing, QR & Barcode Inventory Management, Doppla SoundShield, and an ESP32-based Face Recognition Attendance System. This experience strengthened my understanding of scalable application architecture, backend optimization, asynchronous processing, API integrations, and enterprise software development practices.
+**🚀 Currently focused on**
 
-Previously, as a **Web Development Intern at Employment Express Verband LLP**, I developed and maintained responsive corporate websites, implemented multi-currency support, optimized frontend performance, integrated analytics, and collaborated using Git and GitHub throughout the development lifecycle.
-
-Beyond development, I enjoy learning **backend engineering, system design, authentication strategies, database optimization, cloud deployment, and practical AI integration**. I continuously improve my problem-solving abilities through **Data Structures & Algorithms**, contribute to personal projects, and actively participate in hackathons and collaborative software development.
-
-**🚀 Currently Focused On**
-- Building scalable full-stack applications with clean architecture
-- Developing AI-powered SaaS and productivity platforms
-- Exploring backend scalability, system design, and cloud deployment
-- Strengthening Data Structures & Algorithms for software engineering roles
-- Learning modern AI integration techniques for real-world applications
-- Contributing to impactful open-source and collaborative projects
+- Shipping scalable full-stack applications with clean architecture
+- Building AI-powered SaaS and productivity platforms
+- Going deeper on backend scalability, system design, and cloud deployment
 
 > **"I believe great software isn't just built with good code—it solves real problems, scales efficiently, and delivers an exceptional user experience."**
 
@@ -216,7 +225,6 @@ Beyond development, I enjoy learning **backend engineering, system design, authe
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" />
       </p>
-      <a href="https://github.com/AkshatKardak/Akshat-Portfolio"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
       <a href="https://akshat-portfolio-teal.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
