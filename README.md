@@ -1,15 +1,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/AkshatKardak">
-    <img src="Images/githubanner_gitskins.png" width="100%" alt="Akshat Kardak GitSkins Profile Banner" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+MERN+Stack+%7C+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;Building+Scalable+Web+Apps+%26+AI+SaaS+Platforms;Next.js+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Python+%C2%B7+Node.js" alt="Typing Subtitle" />
-  </a>
+  <img src="Images/Akshat.svg" width="100%" alt="Akshat Kardak — Full Stack Developer, MERN and Python, Mumbai" />
 </p>
 
 <!-- 🎬 PROFILE GIF 🎬 -->
@@ -24,11 +16,10 @@
   <a href="mailto:kardakakshat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/AkshatKardak"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://akshat-portfolio-teal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://raw.githubusercontent.com/AkshatKardak/Akshat-Portfolio/main/public/images/Akshat%20Kardak%20CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Akshat%20Kardak%20CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=AkshatKardak&style=for-the-badge&color=0e75b6" />
 </p>
 
-</div>
 
 ---
 
@@ -36,7 +27,7 @@
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Hi, I'm **Akshat Kardak**, a Computer Science Engineering student at **Datta Meghe College of Engineering, Navi Mumbai**, and a passionate **Full Stack Developer** who enjoys building scalable, user-centric web applications that solve real-world problems.
+Hi, I'm **Akshat Kardak**, a Computer Science Engineering student at **Datta Meghe College of Engineering, Mumbai**, and a passionate **Full Stack Developer** who enjoys building scalable, user-centric web applications that solve real-world problems.
 
 I specialize in developing complete end-to-end applications, from designing intuitive user interfaces to building secure backend services, REST APIs, databases, authentication systems, and AI-powered features. My primary focus is on creating products that are production-ready, maintainable, and capable of solving practical business challenges rather than simply demonstrating technical concepts.
 
@@ -128,7 +119,7 @@ Beyond development, I enjoy learning **backend engineering, system design, authe
       <br/><br/>
       <strong>RentRide – AI Car Rental</strong>
       <br/><br/>
-      <p align="left">Built a complete car rental platform enabling users to browse vehicles, make bookings, manage rentals, and complete secure online payments. Features <strong>Gemini AI chat assistant</strong>, JWT authentication with role-based access, admin dashboard, booking management, and an integrated Razorpay payment workflow.</p>
+      <p align="left">Built a complete car rental platform enabling users to browse vehicles, make bookings, manage rentals, and complete secure online payments. Features <strong>AI chat assistant (Groq LLaMA with Gemini fallback)</strong>, JWT authentication with role-based access, admin dashboard, booking management, and an integrated Razorpay payment workflow.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
@@ -146,7 +137,7 @@ Beyond development, I enjoy learning **backend engineering, system design, authe
       <br/><br/>
       <strong>SerpoAI – Autonomous SEO Growth OS</strong>
       <br/><br/>
-      <p align="left">Engineered an autonomous search growth operating system that transforms passive SEO audits into continuous execution. Features deterministic mathematical ICE prioritization, in-server ML regression suite for traffic lift prediction, Generative Engine Optimization (GEO) citation radar, AST-verified code patch synthesis, Serpo Bot 1-click GitHub PR dispatch, and closed-loop revenue attribution.</p>
+      <p align="left">Engineered an autonomous search growth operating system that transforms passive SEO audits into continuous execution. Features deterministic mathematical ICE prioritization, in-server power-law regression model for CTR and traffic prediction, Generative Engine Optimization (GEO) citation radar, AST-verified code patch synthesis, Serpo Bot 1-click GitHub PR dispatch.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -183,7 +174,7 @@ Beyond development, I enjoy learning **backend engineering, system design, authe
       <br/><br/>
       <strong>PaisaMind – AI Finance OS</strong>
       <br/><br/>
-      <p align="left">Developed an AI-powered financial platform helping freelancers and small businesses manage expenses, invoices, taxes, cash flow, and overall financial planning from a single dashboard. Implements AI-driven financial insights, GST-ready invoice generation, automated email reminders, recurring payment tracking, and intelligent business analytics.</p>
+      <p align="left">Developed an AI-powered financial platform helping freelancers and small businesses manage expenses, invoices, taxes, cash flow, and overall financial planning from a single dashboard. Implements AI-driven financial insights through an AI copilot built on 21 deterministic server-side tool contracts rather than free-form generation, alongside a versioned Indian tax rule engine (Section 44ADA presumptive taxation, 194J/194C TDS reconciliation across 9 statutory match states, and GST thresholds), GST-ready invoice generation, automated email reminders, recurring payment tracking, and intelligent business analytics. Covered by 19 backend test files and 114 test cases.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
@@ -220,11 +211,9 @@ Beyond development, I enjoy learning **backend engineering, system design, authe
       <br/><br/>
       <strong>Developer Portfolio</strong>
       <br/><br/>
-      <p align="left">Designed a modern portfolio showcasing projects, technical skills, experience, and achievements through an interactive and responsive interface. Features cinematic animations, smooth scrolling, project filtering, dark/light theme support, Three.js background, GSAP animations & Midnight Gold design system.</p>
+      <p align="left">Designed a modern portfolio showcasing projects, technical skills, experience, and achievements through an interactive and responsive interface. Features cinematic Framer Motion animation, smooth scrolling, project case-study modals, and the Midnight Gold design system.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black" />
         <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" />
       </p>
       <a href="https://github.com/AkshatKardak/Akshat-Portfolio"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
@@ -253,54 +242,13 @@ Beyond development, I enjoy learning **backend engineering, system design, authe
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="github-metrics.svg" alt="Akshat Kardak's GitHub metrics" width="100%" />
+</p>
 
-<a href="https://github.com/AkshatKardak">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshatKardak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akshat Kardak's GitHub Stats" height="175" />
-</a>
-<a href="https://github.com/AkshatKardak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatKardak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="175" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/AkshatKardak">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatKardak&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshatKardak&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkshatKardak&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkshatKardak&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkshatKardak&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkshatKardak&theme=tokyonight&utcOffset=5.5" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatKardak&theme=tokyo-night&area=true&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="github-metrics-calendar.svg" alt="Contribution calendar" width="100%" />
+</p>
 
 ---
 
@@ -322,10 +270,11 @@ Beyond development, I enjoy learning **backend engineering, system design, authe
   <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://raw.githubusercontent.com/AkshatKardak/Akshat-Portfolio/main/public/images/Akshat%20Kardak%20CV.pdf">
+<a href="https://raw.githubusercontent.com/AkshatKardak/AkshatKardak/main/Akshat%20Kardak%20CV.pdf">
   <img src="https://img.shields.io/badge/Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
 <br/>
 <sub>Built with passion from Mumbai · Always learning, always shipping</sub>
 </div>
+
