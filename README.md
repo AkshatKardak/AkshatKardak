@@ -40,7 +40,7 @@
 <table>
   <tr><td><strong>Focus</strong></td><td>Full-stack engineering · Mern Stack Engineering</td></tr>
   <tr><td><strong>Daily stack</strong></td><td>React.js · FastAPI · Python · Node.js · MongoDB</td></tr>
-  <tr><td><strong>Shipped</strong></td><td>SerpoAI · NagarWatch · RentRide · PaisaMind · UnitedImpact</td></tr>
+  <tr><td><strong>Shipped</strong></td><td>ThermaGrid · SerpoAI · NagarWatch · RentRide · PaisaMind · UnitedImpact</td></tr>
   <tr><td><strong>Based in</strong></td><td>Mumbai, India</td></tr>
   <tr><td><strong>Open to</strong></td><td>Internships and full-time developer roles</td></tr>
 </table>
@@ -140,7 +140,7 @@
       <a href="https://rentridefrontend.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/AkshatKardak/SEO">
+      <a href="https://seo-mauve-eight.vercel.app">
         <img src="Images/SEO.png" width="340" height="200" alt="SerpoAI Preview" />
       </a>
       <br/><br/>
@@ -155,6 +155,7 @@
         <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white" />
       </p>
       <a href="https://github.com/AkshatKardak/SEO"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://seo-mauve-eight.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
@@ -214,18 +215,22 @@
       <a href="https://nagarwatch.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://akshat-portfolio-teal.vercel.app">
-        <img src="Images/AK27.png" width="340" height="200" alt="Portfolio Preview" />
+      <a href="https://thermagrid.netlify.app/">
+        <img src="Images/ThermaGrid.png" width="340" height="200" alt="ThermaGrid Preview" />
       </a>
       <br/><br/>
-      <strong>Developer Portfolio</strong>
+      <strong>ThermaGrid – Hyperlocal Heat Stress Intelligence</strong>
       <br/><br/>
-      <p align="left">Designed a modern portfolio showcasing projects, technical skills, experience, and achievements through an interactive and responsive interface. Features cinematic Framer Motion animation, smooth scrolling, project case-study modals, and the Midnight Gold design system.</p>
+      <p align="left">Built a hyperlocal biometeorological analytics and municipal decision-support system engineered for Indian cities. Features multi-index physiological heat strain calculation (ISO 7243 WBGT, UTCI, NOAA Heat Index), Census-calibrated built-environment vulnerability layering, interactive 3D microclimate architectural models, choropleth ward risk mapping, and metabolic shift planning for outdoor workers.</p>
       <p align="left">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat&logo=leaflet&logoColor=white" />
       </p>
-      <a href="https://akshat-portfolio-teal.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/AkshatKardak/ThermaGrid"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://thermagrid.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
     </td>
   </tr>
 </table>
