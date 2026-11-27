@@ -216,7 +216,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://thermagrid.netlify.app/">
-        <img src="Images/ThermaGrid.png" width="340" height="200" alt="ThermaGrid Preview" />
+        <img src="Images/thermagrid.png" width="340" height="200" alt="ThermaGrid Preview" />
       </a>
       <br/><br/>
       <strong>ThermaGrid – Hyperlocal Heat Stress Intelligence</strong>
